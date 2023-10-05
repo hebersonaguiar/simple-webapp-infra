@@ -6,7 +6,7 @@ replicaCount: 3
 
 image:
   repository: hebersonaguiar/simple-webapp
-  pullPolicy: Allways
+  pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "1.1"
 
